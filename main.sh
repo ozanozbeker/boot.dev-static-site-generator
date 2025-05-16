@@ -1,0 +1,1 @@
+uv --directory=src run main.py
